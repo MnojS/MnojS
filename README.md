@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me:
 -                 [ Linkdin ] (https://www.linkedin.com/in/manoj-sahu-6a70941a5/)
--                 [ Instagram ] (https://www.instagram.com/sn_mnoj/npm/simple-icons@v3/icons/instagram.svg)
+-                 [ Instagram ] (https://www.instagram.com/sn_mnoj/icons/instagram.svg)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to draw and play guitar
 -->
