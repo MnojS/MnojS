@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning React JavaScript Library
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to draw and play guitar 
 
 
 ## Skills :
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
 </a>
 
+# YooHoooooo
