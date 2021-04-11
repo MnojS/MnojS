@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to draw and play guitar
 
 
-#Skills :
+##### Skills :
 
 ## ⚡ Technologies
 
