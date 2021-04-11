@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-## View Count
-
 <p align="center"> 
-  Visitor count<br>
+  <h2>Visitor count</h2><br>
   <img src="https://profile-counter.glitch.me/vaibhavirohilla741/count.svg" />
 </p>
