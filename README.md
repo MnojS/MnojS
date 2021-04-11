@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Front-End Development
 - 🌱 I’m currently learning React JavaScript Library
-- 👯 I’m looking to collaborate on Front-End related projects
+- 👯 I’m looking to collaborate with Front-End related projects
 - 🤔 I’m looking for help with Innovative ideas
-- 💬 Ask me about 
+- 💬 Ask me about CSS 
 - 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to draw and play guitar 
