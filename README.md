@@ -26,6 +26,23 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p align="center"> 
-  <h2>Visitor count</h2><br>
+  <h2 align="center">Visitor count</h2><br>
   <img src="https://profile-counter.glitch.me/vaibhavirohilla741/count.svg" />
 </p>
+
+
+
+
+<a href="https://github.com/vaibhavirohilla741">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavirohilla741&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/vaibhavirohilla741">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavirohilla741&show_icons=true&theme=radical&line_height=27" alt="Vaibhavi github stats"/>
+</a>
+<a href="https://github.com/vaibhavirohilla741/Operationalizing-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Operationalizing-ML&theme=radical" />
+
+</a>
+<a href="https://github.com/vaibhavirohilla741/Blood-Donation-">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation-&theme=radical" />
+</a>
