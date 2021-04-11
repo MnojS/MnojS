@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
-- 📫 How to reach me:
--                 [ Linkdin ] ...www.linkedin.com/in/vaibhavirohilla
--                 [ Instagram ] https://www.instagram.com/sn_mnoj/
+- 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to draw and play guitar
 -->
