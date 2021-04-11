@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <h2 align="center">Visitor count</h2><br>
-  <img src="https://profile-counter.glitch.me/vaibhavirohilla741/count.svg" />
+  <img src="https://profile-counter.glitch.me/vaibhavirohilla741/count.svg" align="center" />
 </p>
 
 
