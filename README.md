@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vaibhavirohilla741/count.svg" align="center"></img>
+  <img src="https://profile-counter.glitch.me/MnojS/count.svg" align="center"></img>
 </p>
 
 
 
 
 <a href="https://github.com/MnojS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavirohilla741&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
 </a>
 
