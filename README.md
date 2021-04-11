@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
 - 📫 How to reach me:
--                 [ Linkdin ] www.linkedin.com/in/manoj-sahu-6a70941a5/
+-                 [ Linkdin ] ...www.linkedin.com/in/manoj-sahu-6a70941a5/
 -                 [ Instagram ] https://www.instagram.com/sn_mnoj/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to draw and play guitar
