@@ -38,8 +38,7 @@
 <a href="https://github.com/MnojS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/vaibhavirohilla741/Blood-Donation">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MnojS&repo=Blood-Donation&theme=radical" />
-</a>
+
+
 
 # YooHoooooo
