@@ -1,8 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## You there ?
-### There You are ! Now you are here so why don't you have a LOOK at My REPO 😁
+### There You are ! Now why don't you have a LOOK at My REPO 😁
 
+<br>
 
 
 - 🔭 I’m currently working on Front-End Development
