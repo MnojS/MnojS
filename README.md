@@ -9,7 +9,7 @@
 - 💬 Ask me about CSS 
 - 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to draw and play guitar 
+- ⚡ Fun fact: I love to draw , sing and play guitar 
 
 
 ## Skills :
