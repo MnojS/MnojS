@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## YoU there ?
-# There You are ! Now you are here so wwhy don't you have a LOOK at My REPO 😁
+## You there ?
+### There You are ! Now you are here so why don't you have a LOOK at My REPO 😁
 
 
 
