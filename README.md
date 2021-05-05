@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React JavaScript Library
 - 👯 I’m looking to collaborate with Front-End related projects
 - 🤔 I’m looking for help with Innovative ideas , May be i have an idea .....
-- 💬 Ask me about CSS 
+- 💬 Ask me about .........
 - 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Language I Speak : Hindi And English 
 - ⚡ Fun fact: I love to draw , sing and play guitar 
