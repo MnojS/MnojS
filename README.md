@@ -36,8 +36,9 @@
   <img src="https://profile-counter.glitch.me/MnojS/count.svg" align="center"></img>
 </p>
 
-
-
+<a href="https://github.com/MnojS">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MnojS &show_icons=true&theme=radical&line_height=27" alt="Github Stats"/>
+</a>
 
 <a href="https://github.com/MnojS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
