@@ -1,17 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## You there ?
-### There You are ! Now why don't you have a LOOK at My REPO 😁 
+### There You are ! Do you know who i am ? Hear me out....
 
 <br>
 
 
-- 🔭 I’m currently working on Front-End Development 
-- 🌱 I’m currently learning React JavaScript Library
-- 👯 I’m looking to collaborate with Front-End related projects
-- 🤔 I’m looking for help with Innovative ideas , May be i have an idea .....
-- 💬 Ask me about .........
-- 📫 How to reach me: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
+- 🔭 I’m a MERN stack developer 
+- 🌱 I’m still learning!!
+- 👯 I’m looking to collaborate with MERN stack related projects
+- 💬 Ask me something
+- 📫 And you want to reach me? here's the address: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
 - 😄 Language I Speak : Hindi And English 
 - ⚡ Fun fact: I love to draw , sing and play guitar 
 
@@ -43,4 +42,4 @@
 
 
 
-# YooooooooHooooooooooo
+# YooooooooHooooooooooo be kind people!! and have a look at my repo and if you like any one of them please stare them and show some love😁❣️
