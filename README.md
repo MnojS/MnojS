@@ -1,10 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-## You there ?
-### There You are ! Do you know who i am ? Hear me out....
+## You there?
+### Be a good person and checkout my profile😁 
 
 <br>
-
 
 - 🔭 I’m a MERN stack developer 
 - 🌱 I’m still learning!!
@@ -43,4 +42,4 @@
 
 
 # YooooooooHooooooooooo 
-### Hello there people did you had a look at my repo and if you like any one of them please stare them and show some love😁❣️
+### Hello there people on the Internet! Did you had a look to my repos too? and if you did .. Thank You! 😁❣️
