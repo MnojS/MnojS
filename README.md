@@ -1,4 +1,4 @@
-##  Full-Stack Developer | MEAN & MERN Enthusiast | Python Backend Mastermind
+##  Full-Stack Developer | MEAN & MERN | Python Backend 
 
  Hi there! I'm Manoj Sahu, a passionate full-stack developer with a knack for crafting engaging web applications using both MEAN and MERN stacks. I'm also diving deep into the world of Python backend development, constantly expanding my skillset.
 
