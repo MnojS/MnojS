@@ -1,45 +1,55 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+##  Full-Stack Developer | MEAN & MERN Enthusiast | Python Backend Mastermind
 
-## You there?
-### Be a good person and checkout my profile😁 
+ Hi there! I'm Manoj Sahu, a passionate full-stack developer with a knack for crafting engaging web applications using both MEAN and MERN stacks. I'm also diving deep into the world of Python backend development, constantly expanding my skillset.
 
-<br>
+‍ Currently, I'm actively learning [Specific areas you're focusing on].
 
-- 🔭 I’m a MERN stack developer 
-- 🌱 I’m still learning!!
-- 👯 I’m looking to collaborate with MERN stack related projects
-- 💬 Ask me something
-- 📫 And you want to reach me? here's the address: ...https://www.linkedin.com/in/manoj-sahu-6a70941a5/ 
-- 😄 Language I Speak : Hindi And English 
-- ⚡ Fun fact: I love to draw , sing and play guitar 
+ I'm excited to collaborate on projects related to Full stack development. Feel free to reach out if you have something in mind!
 
+## ️ Skills
 
-## Skills :
+**Frontend:**
 
-## ⚡ Technologies
+- JavaScript (ES6+)
+- ReactJS
+- AngularJS (if you use it)
+- VueJS (if you use it)
+- HTML5
+- CSS3
+- Bootstrap
+- Material-UI (or other preferred UI frameworks)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+**Backend:**
 
-<br>
-<br>
+- Node.js (Express.js)
+- MongoDB (Mongoose)
+- Python (Django, Flask)
+- SQL databases (if applicable)
 
+**Other:**
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MnojS/count.svg" align="center"></img>
-</p>
+- Git
+- Version control
+- Testing frameworks (Jest, Mocha)
+- RESTful APIs
+- Testing frameworks (Jest, Mocha)
 
+##  Connect With Me
 
-<a href="https://github.com/MnojS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
-</a>
+- LinkedIn: [Your LinkedIn profile URL]
+- GitHub: https://github.com/[Your GitHub username]
+- Website (if you have one): [Your website URL]
 
+##  Visitor Count
 
+<img src="https://profile-counter.glitch.me/Manoj Sahu/count.svg" align="center"></img>
 
-# YooooooooHooooooooooo 
-### Hello there people on the Internet! Did you had a look to my repos too? and if you did .. Thank You! 😁❣️
+##  GitHub Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub username]&theme=radical&hide_langs_below=1" />
+
+##  Keep in Touch
+
+I'm always eager to connect, collaborate, and learn from others! Feel free to reach out if you have any questions, project ideas, or just want to chat.
+
+# P.S. Did you check out my repositories too?
