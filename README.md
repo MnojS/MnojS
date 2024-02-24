@@ -12,19 +12,16 @@
 
 - JavaScript (ES6+)
 - ReactJS
-- AngularJS (if you use it)
-- VueJS (if you use it)
+- Angular13+
 - HTML5
 - CSS3
 - Bootstrap
-- Material-UI (or other preferred UI frameworks)
 
 **Backend:**
 
 - Node.js (Express.js)
 - MongoDB (Mongoose)
-- Python (Django, Flask)
-- SQL databases (if applicable)
+- Python (Flask)
 
 **Other:**
 
@@ -36,9 +33,8 @@
 
 ##  Connect With Me
 
-- LinkedIn: [Your LinkedIn profile URL]
-- GitHub: https://github.com/[Your GitHub username]
-- Website (if you have one): [Your website URL]
+- LinkedIn: https://www.linkedin.com/in/manoj-sahu-6a70941a5/
+- GitHub: https://github.com/MnojS
 
 ##  Visitor Count
 
@@ -46,7 +42,7 @@
 
 ##  GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub username]&theme=radical&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
 
 ##  Keep in Touch
 
