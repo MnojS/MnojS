@@ -1,53 +1,72 @@
-# 👨‍💻 Manoj Sahu  
+# 👨‍💻 **Manoj Sahu**  
 **Full-Stack Developer | MEAN & MERN | Python Backend**  
 
-Hi! I'm **Manoj Sahu**, a passionate **Full-Stack Developer** with over **2.7 years of experience**. I specialize in building **robust web applications**, designing **scalable architectures**, and developing **secure systems**. My journey includes creating **multi-factor authentication systems**, **role-based security**, and **modular services**, enhancing **system performance** and **user experience**.
+Welcome! I'm **Manoj Sahu**, a dedicated **Full-Stack Developer** with over **2.7 years of professional experience**. My expertise lies in designing **scalable web applications**, implementing **secure systems**, and optimizing **database performance**. I thrive on solving complex problems and delivering **high-quality solutions**.  
 
 ---
 
-## 🌟 **Key Highlights**  
+## 🌟 **Career Highlights**  
 
-- **Experience**: 2+ years as a **Full-Stack Developer**.  
-- **Key Contributions**:  
-  - Reduced unauthorized access attempts by **30%** with custom **MFA**.  
-  - Improved system efficiency through **simplified database** and **code structures**.  
-  - Led feature development for a **Document Approval System**, akin to **advanced Google Drive**.  
+- **2+ years** of experience in **Full-Stack Development** across **MEAN**, **MERN**, and **Python Backend**.  
+- Achieved a **30% decrease** in unauthorized access with a **custom MFA system**, improving user trust.  
+- Streamlined **document management** systems similar to **Google Drive**, enhancing usability and performance.  
+- Successfully led the development of a **Document Approval System**, managing feature rollouts and team coordination.  
 
 ---
 
-## 🛠 **Skills**  
+## 🛠 **Technical Skills**  
 
-### **Frontend:**  
-- **JavaScript** (ES6+), **ReactJS**, **Angular13+**  
+### **Frontend Development**  
+- **JavaScript (ES6+)**, **ReactJS**, **Angular13+**  
 - **HTML5**, **CSS3**, **Bootstrap**, **TailwindCSS**  
 
-### **Backend:**  
-- **Node.js** (Express.js), **Python** (Flask/Django)  
+### **Backend Development**  
+- **Node.js (Express.js)**, **Python (Flask/Django)**  
 - **MongoDB**, **SQL**, **GraphQL**, **RESTful APIs**  
 
-### **Other Tools & Technologies:**  
-- **AWS**, **WebSockets**, **Microservices**  
-- **Git**, **Version Control**, **Testing** (Jest, Mocha)  
+### **DevOps & Tools**  
+- **AWS**, **WebSockets**, **Microservices Architecture**  
+- **Git**, **Version Control**, **Testing Frameworks** (Jest, Mocha)  
 
-### **Soft Skills:**  
+### **Soft Skills**  
 - **Clear Communication**  
 - **Problem Solving**  
-- **Leadership & Collaboration**  
+- **Leadership & Team Collaboration**  
 
 ---
 
-## 🏢 **Work Experience**  
+## 🏢 **Professional Experience**  
 
-### **Quloi Inc (Dec 2022 – Present)**  
-- **Document Management System**: Designed **scalable database** and implemented **role-based access**.  
-- **WebHook Module**: Built a standalone **Node.js module** for **event subscription** with **retry mechanisms**.  
-- **Multi-Factor Authentication**: Custom-built **MFA**, reducing unauthorized access by **30%**.  
-- **Rating System**: Designed a **5-star rating system**, providing insights through **performance graphs**.  
-- **Document Approval System**: **Led team**, **system design**, and **progress tracking**.  
+### **Quloi Inc**  
+**Full-Stack Developer**  
+*Dec 2022 – Present*  
 
-### **Appiot Solutions Pvt Ltd (Jun 2022 – Dec 2022)**  
-- Developed an **E-learning platform** using **Angular13+**, **Node.js**, and **MongoDB**, increasing user engagement by **5%**.  
-- Implemented **complex data handling solutions**, enhancing **front-end integration**.  
+- **Document Management System**: Architected and implemented **role-based access control** and enhanced system performance.  
+- **WebHook Module**: Developed a modular **Node.js service** for event-driven systems with **retry logic**.  
+- **Multi-Factor Authentication (MFA)**: Engineered a custom **MFA solution**, reducing unauthorized access by **30%**.  
+- **Rating & Performance System**: Created a dynamic **5-star rating system** with performance analytics.  
+- **Document Approval System**: **Led team efforts** in system design, feature development, and progress reporting.  
+
+### **Appiot Solutions Pvt Ltd**  
+**Full-Stack Developer**  
+*Jun 2022 – Dec 2022*  
+
+- Developed an **E-learning platform** using **Angular13+**, **Node.js**, and **MongoDB**, boosting **user engagement by 5%**.  
+- Solved complex data processing challenges, ensuring **seamless front-end integration**.  
+
+---
+
+## 🚀 **Projects**  
+
+### **Ride (Ongoing)**  
+- Developing a **ride-sharing platform**, analyzing user behavior through surveys and research.  
+- **Tech Stack**: **Node.js**, **Express**, **Python Flask**, **React Native**, **MongoDB**, **Tailwind CSS**, **Figma**.  
+
+### **Food App UI Design**  
+- Built a **responsive food ordering platform** with **ReactJS**, improving **loading times by 10%**.  
+
+### **Street Vendors**  
+- Created a web app to boost **local vendor sales** by enhancing **online visibility**, leading to a **potential 10% sales increase**.  
 
 ---
 
@@ -60,20 +79,6 @@ Hi! I'm **Manoj Sahu**, a passionate **Full-Stack Developer** with over **2.7 ye
 
 ---
 
-## 🚀 **Projects**  
-
-- **Ride (Ongoing)**  
-  - Researching and developing a **ride-sharing platform**.  
-  - **Tech Stack**: Node.js, Express / Python Flask, MongoDB, React Native, Tailwind CSS, Figma.  
-
-- **Food App UI Design**  
-  - Built a **responsive food ordering platform** using **ReactJS** and **Material UI**.  
-
-- **Street Vendors**  
-  - Created a **local web app prototype** for showcasing products, enabling **street vendors** to boost sales by **10%**.  
-
----
-
 ## 📬 **Connect With Me**  
 
 - **LinkedIn**: [Manoj Sahu](https://www.linkedin.com/in/manoj-sahu-6a70941a5/)  
@@ -83,7 +88,7 @@ Hi! I'm **Manoj Sahu**, a passionate **Full-Stack Developer** with over **2.7 ye
 
 ## 📊 **GitHub Stats**  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />  
 
 ---
 
@@ -93,6 +98,10 @@ Hi! I'm **Manoj Sahu**, a passionate **Full-Stack Developer** with over **2.7 ye
 
 ---
 
-## 💬 **Let's Collaborate!**  
+## 💬 **Let’s Collaborate!**  
 
-I'm open to collaborations on **innovative projects**. Feel free to reach out for **brainstorming** or to discuss **new opportunities**!  
+I'm always eager to work on **exciting projects** that challenge my skills and drive innovation. Whether it's **building scalable systems**, **enhancing user experiences**, or exploring **new technologies**, I’m ready to contribute and grow together.  
+
+---
+
+### 🔥 **Check out my repositories and let’s create something amazing together!**
