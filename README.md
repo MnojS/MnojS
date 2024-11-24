@@ -70,6 +70,14 @@ Welcome! I'm **Manoj Sahu**, a dedicated **Full-Stack Developer** with over **2.
 
 ---
 
+
+## 📊 **GitHub Stats**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&layout=compact&langs_count=10&hide=php,perl&theme=radical&custom_title=Languages%20I%20Code%20In" />
+
+
+---
+
 ## 📚 **Education**  
 
 - **B.Tech in Computer Science**  
@@ -83,12 +91,6 @@ Welcome! I'm **Manoj Sahu**, a dedicated **Full-Stack Developer** with over **2.
 
 - **LinkedIn**: [Manoj Sahu](https://www.linkedin.com/in/manoj-sahu-6a70941a5/)  
 - **GitHub**: [MnojS](https://github.com/MnojS)  
-
----
-
-## 📊 **GitHub Stats**  
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnojS&theme=radical&hide_langs_below=1" />  
 
 ---
 
